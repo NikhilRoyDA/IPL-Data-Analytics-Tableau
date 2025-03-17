@@ -1,4 +1,4 @@
-# 📊 IPL Data Analytics – Tableau Dashboard  
+# 🏏IPL Data Analytics – Tableau Dashboard 📊
 
 ## 🚀 Project Overview  
 This project analyzes IPL data from **2008-2020**, providing key insights using **Tableau**. The dashboard visualizes team performance, player statistics, and match trends to understand how data impacts decision-making in cricket.  
